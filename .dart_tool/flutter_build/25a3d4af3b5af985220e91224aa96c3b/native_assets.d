@@ -1,0 +1,1 @@
+ /home/tarik/dev/github/yourtrek/.dart_tool/flutter_build/25a3d4af3b5af985220e91224aa96c3b/native_assets.yaml: 

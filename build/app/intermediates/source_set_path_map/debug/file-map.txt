@@ -1,0 +1,12 @@
+com.example.yourtrek.app-jetified-window-java-1.0.0-beta04-0 /home/tarik/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.yourtrek.app-core-1.6.0-1 /home/tarik/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.yourtrek.app-jetified-annotation-experimental-1.1.0-2 /home/tarik/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.yourtrek.app-jetified-window-1.0.0-beta04-3 /home/tarik/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.yourtrek.app-debug-4 /home/tarik/dev/github/yourtrek/android/app/src/debug/res
+com.example.yourtrek.app-main-5 /home/tarik/dev/github/yourtrek/android/app/src/main/res
+com.example.yourtrek.app-pngs-6 /home/tarik/dev/github/yourtrek/build/app/generated/res/pngs/debug
+com.example.yourtrek.app-resValues-7 /home/tarik/dev/github/yourtrek/build/app/generated/res/resValues/debug
+com.example.yourtrek.app-rs-8 /home/tarik/dev/github/yourtrek/build/app/generated/res/rs/debug
+com.example.yourtrek.app-mergeDebugResources-9 /home/tarik/dev/github/yourtrek/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.yourtrek.app-mergeDebugResources-10 /home/tarik/dev/github/yourtrek/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.yourtrek.app-merged_res-11 /home/tarik/dev/github/yourtrek/build/app/intermediates/merged_res/debug
