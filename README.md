@@ -14,34 +14,29 @@ This project is a tourism applicationv developed using Flutter. It mainly focuse
 1. Clone this repository:
    ```bash
    git clone https://github.com/user/repo.git
-
-    Navigate to the project directory:
-
-    bash
-
-cd tourism-application
-
-Install dependencies:
-
-bash
-
-flutter pub get
-
-Run the application:
-
-bash
-
-    flutter run
-
-License
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd tourism-application
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+   
+## License
 
 This project is licensed under the GNU General Public License version 3.0 (GPL-3.0). See the LICENSE file for details.
 Contributing
 
     You can always contribute to this project.
 
-Acknowledgements
+**Acknowledgements**
 
-    To the Flutter and Dart teams.
-    To the open-source community.
+    *To the Flutter and Dart teams.*
+    *To the open-source community.*
 
