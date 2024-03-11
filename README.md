@@ -5,7 +5,6 @@ This project is a tourism applicationv developed using Flutter. It mainly focuse
 ## Features
 
 - Simple and user-friendly interface.
-- Main pages displaying tourist attractions and points of interest.
 - Separate pages for detailed information on each attraction.
 - Visually rich and appealing design.
 
