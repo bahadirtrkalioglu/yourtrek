@@ -1,16 +1,41 @@
-# yourtrek
+# Yourtrek: Mobile Tourism Application
 
-A new Flutter project.
+This project is a tourism applicationv developed using Flutter. It mainly focuses on the user interface (UI) and displays basic tourism information.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Simple and user-friendly interface.
+- Separate pages for detailed information on each attraction.
+- Visually rich and appealing design.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/user/repo.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd tourism-application
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+   
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the GNU General Public License version 3.0 (GPL-3.0). See the LICENSE file for details.
+Contributing
+
+    You can always contribute to this project.
+
+**Acknowledgements**
+
+    *To the Flutter and Dart teams.*
+    *To the open-source community.*
+
