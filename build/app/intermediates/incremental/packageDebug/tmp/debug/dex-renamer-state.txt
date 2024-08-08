@@ -1,4 +1,0 @@
-#Mon Mar 11 21:58:42 TRT 2024
-base.0=/home/tarik/dev/github/yourtrek/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
